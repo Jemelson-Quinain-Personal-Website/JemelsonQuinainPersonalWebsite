@@ -16,7 +16,7 @@ html {
 }
 
 p {
-    color: gray
+    color: rgb(14, 4, 4)
 }
 
 /*Transition */
@@ -55,7 +55,7 @@ a {
 a:hover {
     color: blue;
     text-decoration: underline;
-    text-decoration-color: yellowgreen;
+    text-decoration-color: rgb(1, 2, 0);
 }
 
 /* This makes the font size slightly bigger */
@@ -122,4 +122,17 @@ section {
 
 .icon {
     height: 2rem;
+}
+
+.container {
+    background-color: rgb(169, 210, 238);
+    border: thick double #32a1ce;
+}
+
+.projimages {
+    height: 300px;
+}
+
+.top{
+    background-color: antiquewhite;
 }
