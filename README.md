@@ -1,3 +1,3 @@
 # JemelsonQuinainPersonalWebsite
 
-Fast Learner
+Hello, this is my personal website project where I demonstrate my html and css skills to potential employers. Ive created a home page where ive linked my github and linked in profile. My about page is where others can learn more about me and my daily life. Experience is where I will put my past job experience and professional experiences to help employers udnerstand my skill set. Work/Portfolio is where I can showcase my projects and things I've helped make. Then a contact page to let employers contact me.
